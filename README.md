@@ -1,7 +1,7 @@
 # Credit Card Approval - Predictive Modeling
 
 The dataset provided gives characteristics of applicants for a major credit card. The business aim is to predict the probability of a credit card application getting approved based on the characteristics of the applicant.
-These Predictive models can help the bank to decide if the credit card should be approved and process credit card applications faster.
+These predictive models can help the bank to decide if the credit card should be approved and process credit card applications faster.
 
 ## Data Dictionary
 _card_ Boolean. Was the application for a credit card accepted?
