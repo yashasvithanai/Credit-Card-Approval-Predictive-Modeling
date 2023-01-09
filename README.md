@@ -5,14 +5,25 @@ These predictive models can help the bank to decide if the credit card should be
 
 ## Data Dictionary
 _card_ Boolean. Was the application for a credit card accepted?
+
 _reports_ Number of major derogatory reports.
-_age_ Age in years plus twelfths of a year. income Yearly income (in USD 10,000). share: Ratio _share_ Ratio of monthly credit card expenditure to yearly income.
+
+_age_ Age in years plus twelfths of a year. 
+_income_ Yearly income (in USD 10,000).
+_share_ Ratio _share_ Ratio of monthly credit card expenditure to yearly income.
+
 _expenditure_ Average monthly credit card expenditure.
+
 _owner_ Boolean. Does the individual own their home?
+
 _selfemp_ Boolean. Is the individual self-employed?
+
 _dependents_ Number of dependents.
+
 _months_ Months living at current address. 
+
 _majorcards_ Number of major credit cards held. 
+
 _active_ Number of active credit accounts. 
 
 ## Analytics Concepts
