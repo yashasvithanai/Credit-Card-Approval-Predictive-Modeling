@@ -9,8 +9,10 @@ _card_ Boolean. Was the application for a credit card accepted?
 _reports_ Number of major derogatory reports.
 
 _age_ Age in years plus twelfths of a year. 
+
 _income_ Yearly income (in USD 10,000).
-_share_ Ratio _share_ Ratio of monthly credit card expenditure to yearly income.
+
+_share_ Ratio of monthly credit card expenditure to yearly income.
 
 _expenditure_ Average monthly credit card expenditure.
 
