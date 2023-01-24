@@ -4,29 +4,18 @@ The dataset provided gives characteristics of applicants for a major credit card
 These predictive models can help the bank to decide if the credit card should be approved and process credit card applications faster.
 
 ## Data Dictionary
-_card_ Boolean. Was the application for a credit card accepted?
-
-_reports_ Number of major derogatory reports.
-
-_age_ Age in years plus twelfths of a year. 
-
-_income_ Yearly income (in USD 10,000).
-
-_share_ Ratio of monthly credit card expenditure to yearly income.
-
-_expenditure_ Average monthly credit card expenditure.
-
-_owner_ Boolean. Does the individual own their home?
-
-_selfemp_ Boolean. Is the individual self-employed?
-
-_dependents_ Number of dependents.
-
-_months_ Months living at current address. 
-
-_majorcards_ Number of major credit cards held. 
-
-_active_ Number of active credit accounts. 
+-_card_ Boolean. Was the application for a credit card accepted?
+-_reports_ Number of major derogatory reports.
+-_age_ Age in years plus twelfths of a year. 
+-_income_ Yearly income (in USD 10,000).
+-_share_ Ratio of monthly credit card expenditure to yearly income.
+-_expenditure_ Average monthly credit card expenditure.
+-_owner_ Boolean. Does the individual own their home?
+-_selfemp_ Boolean. Is the individual self-employed?
+-_dependents_ Number of dependents.
+-_months_ Months living at current address. 
+-_majorcards_ Number of major credit cards held. 
+-_active_ Number of active credit accounts. 
 
 ## Analytics Concepts
 -	Building predictive models to predict the probability of a credit card application getting approved based on certain characteristics of the applicant.
